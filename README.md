@@ -13,5 +13,3 @@ Topics to be reviewed:
   * --soft
   * --mixed
 * Reflog
-* Revert
-* Rebase
